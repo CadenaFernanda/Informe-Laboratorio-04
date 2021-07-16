@@ -12,9 +12,12 @@ Determinar las características y mediciones comprobando experimentalmente el Te
  
 OBJETIVOS ESPECÍFICOS:
 
-Identificar los valores de la tensión en un circuito a través del teorema de Superposición .
-Determinar  los valores de la tensión en un circuito a través del teorema de Superposición .
-Realizar el procedimiento en un simulador llamado Tinkercad que nos va a permitir experimentar de una forma más realista.
+-Identificar los valores de la tensión en un circuito a través del teorema de Superposición .
+
+-Determinar  los valores de la tensión en un circuito a través del teorema de Superposición .
+
+-Realizar el procedimiento en un simulador llamado Tinkercad que nos va a permitir experimentar de una forma más realista.
+
 
 4.2.  REQUISITOS PREVIOS.
  

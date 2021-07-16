@@ -103,6 +103,9 @@ Circuito B:
 
 ![image](https://user-images.githubusercontent.com/84587120/125893404-e7ba16d6-2bcf-427f-b63d-09902a35e4ac.png)
 
+VIDEO:
+
+https://youtu.be/6BIuYWkXAVo
 
 CONCLUSIONES
 

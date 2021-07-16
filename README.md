@@ -47,9 +47,8 @@ IX, respetando tanto la polaridad del voltaje como el sentido de la corriente qu
 4.5.4.   Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-![image](https://user-images.githubusercontent.com/84587120/125887222-dd9afc2a-03a7-4a3a-91a3-d13e4fb32fd3.png)
 
-![image](https://user-images.githubusercontent.com/84587120/125887250-fd6d6cc9-25bc-4235-b5c2-e2bb673f3c19.png)
+![image](https://user-images.githubusercontent.com/84587120/125893705-66c8816c-3ba8-4e41-b450-ddd7552e690d.png)
  
  Procedimiento: 
  
@@ -100,9 +99,9 @@ Circuito A:
 
 ![image](https://user-images.githubusercontent.com/84587120/125892320-2d1d4d8b-dc20-486e-a63d-dfc9b8a7b4a8.png)
 
- ![image](https://user-images.githubusercontent.com/84587120/125887343-fc1db47c-0db1-4610-96be-ef1bdb45cc28.png)
+Circuito B: 
 
-![image](https://user-images.githubusercontent.com/84587120/125887368-e9b3e850-513c-405e-9b8b-e24763f86c68.png)
+![image](https://user-images.githubusercontent.com/84587120/125893404-e7ba16d6-2bcf-427f-b63d-09902a35e4ac.png)
 
 
 CONCLUSIONES

@@ -96,6 +96,10 @@ Datos encontrados:
 
 4.5.5.   Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
+Circuito A: 
+
+![image](https://user-images.githubusercontent.com/84587120/125892320-2d1d4d8b-dc20-486e-a63d-dfc9b8a7b4a8.png)
+
  ![image](https://user-images.githubusercontent.com/84587120/125887343-fc1db47c-0db1-4610-96be-ef1bdb45cc28.png)
 
 ![image](https://user-images.githubusercontent.com/84587120/125887368-e9b3e850-513c-405e-9b8b-e24763f86c68.png)
